@@ -4,7 +4,7 @@ import { Montserrat } from "next/font/google";
 import "@/assets/styles/globals.css";
 
 const metadata = {
-  title: "Casa verde",
+  title: "Casa Verde",
   description:
   "Treinando design e composition pattern com TailwindCSS e Daisyui"
 };
