@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --gray-p: 0 0% 13%;
+    --gray-s: 0 0% 40%;
+    --gray-t: 0 0% 50%;
+    --icon: 0 0% 100%;
+
+    --shadow-md: 10px 10px 30px 0px hsla(0, 0%, 0%, 0.15);
+
+    --text-xs: 12px;
+    --text-sm: 14px;
+    --text-md: 16px;
+    --text-xl: 20px;
+    --text-2xl: 22px;
+    --text-3xl: 32px;
+    --text-4xl: 36px;
+    --text-8xl: 60px;
+    --text-9xl: 80px;
+  }
+}
