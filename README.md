@@ -4,6 +4,8 @@
 Green house homepage.
 
 ## :wrench: Technologies used
+* NextJs
+* TailwinddCSS
 * JavaScript
 * CSS
 * HTML
