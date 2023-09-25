@@ -15,7 +15,7 @@ https://github.com/Richard-Passos/casa-verde-homepage/assets/104469731/198b2afb-
 ### To run the repository, it is recommended to do:
 01: Clone the repository via git
 ```
-git clone https://github.com/Richard-Passos/casa-verde-homepage.git
+git clone https://github.com/Richard-Passos/fe-homepage-green-house.git
 ```
 02: Enter the project directory
 ```
