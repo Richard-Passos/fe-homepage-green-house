@@ -1,46 +1,46 @@
-<h1 align="center">:file_cabinet: Green house</h1>
+<h1 align="center">:file_cabinet: Green House</h1>
 
 ## :memo: Description
-Homepage para uma marca fictícia, Casa Verde, com o objetivo de praticar design e composition pattern e testes com Jest. Incluí principalmente um header, uma hero section, e cards. Utilizando de design pattern junto Daisyui e TailwindCSS para a estilização e usando do composition pattern para que cada components seja extremamente customizável e com testes fácies de serem executados. A homepage também inclui um formulario de newsletter.
+Homepage for a fictional brand, Green House, with the aim of practicing design, composition pattern and testing with Jest. It primarily includes a header, a hero section and cards. Using design patterns along with DaisyUI and TailwindCSS for styling and using composition patterns to make each component highly customizable and easy to test. The homepage also include a newsletter signup form.
 
 https://github.com/Richard-Passos/casa-verde-homepage/assets/104469731/198b2afb-db1f-43e5-9b15-65c7bc29b33a
 
 ## :wrench: Technologies used
 * NextJS
-* JavaScript
 * Jest
 * TailwindCSS
+* JavaScript
 
 ## :rocket: Running the project
-### Para rodar o repositório é recomendado seguir os passos:
-01: Clonar o projeto via git;
+### To run the repository, it is recommended to do:
+01: Clone the repository via git;
 ```
 git clone https://github.com/Richard-Passos/casa-verde-homepage.git
 ```
-02: Entrar na pasta do projeto;
+02: Enter the project directory;
 ```
 cd casa-verde-homepage
 ```
-03: Instalar dependências;
+03: Install depencies;
 ```
 yarn
 ```
-04: Criar arquivo .env.local;
+04: Create file .env.local;
 ```
 touch .env.local
 ```
-05: Dentro do arquivo .env.local colocar o servide id, template id e plublic key do EmailJS;
+05: Inside file .env.local put service id, template id e plublic key from EmailJS;
 ```
 NEXT_PUBLIC_EMAIL_SENDER_SERVICE_ID=seu_service_id
 NEXT_PUBLIC_EMAIL_SENDER_TEMPLATE_ID=seu_template_id
 NEXT_PUBLIC_EMAIL_SENDER_PUBLIC_KEY=seu_public_key
 ```
-### Podendo agora rodar o projeto ou os testes:
-Rodar projeto;
+### Now you can run the project or its tests:
+Run project;
 ```
 yarn dev
 ```
-Rodar testes;
+Run tests;
 ```
 yarn test
 ```
