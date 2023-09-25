@@ -19,7 +19,7 @@ git clone https://github.com/Richard-Passos/fe-homepage-green-house.git
 ```
 02: Enter the project directory
 ```
-cd casa-verde-homepage
+cd fe-homepage-green-house
 ```
 03: Install depencies
 ```
