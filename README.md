@@ -6,9 +6,9 @@ Homepage para uma marca fictícia, Casa Verde, com o objetivo de praticar design
 https://github.com/Richard-Passos/casa-verde-homepage/assets/104469731/198b2afb-db1f-43e5-9b15-65c7bc29b33a
 
 ## :wrench: Technologies used
-* NextJS;
-* JavaScript;
-* Jest;
+* NextJS
+* JavaScript
+* Jest
 * TailwindCSS
 
 ## :rocket: Running the project
