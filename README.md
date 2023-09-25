@@ -1,9 +1,11 @@
 <h1 align="center">:file_cabinet: Green House</h1>
 
+<br>
+
 ## :memo: Description
 Homepage for a fictional brand, Green House, with the aim of practicing design, composition pattern and testing with Jest. It primarily includes a header, a hero section and cards. Using design patterns along with DaisyUI and TailwindCSS for styling and using composition patterns to make each component highly customizable and easy to test. The homepage also include a newsletter signup form.
 
-https://github.com/Richard-Passos/casa-verde-homepage/assets/104469731/198b2afb-db1f-43e5-9b15-65c7bc29b33a
+<br>
 
 ## :wrench: Technologies used
 * NextJS
@@ -11,17 +13,18 @@ https://github.com/Richard-Passos/casa-verde-homepage/assets/104469731/198b2afb-
 * TailwindCSS
 * JavaScript
 
-## :rocket: Running the project
-### To run the repository, it is recommended to do:
-01: Clone the repository via git
+<br>
+
+## :rocket: Run project
+01: Clone repository via git
 ```
 git clone https://github.com/Richard-Passos/fe-homepage-green-house.git
 ```
-02: Enter the project directory
+02: Enter project directory
 ```
 cd fe-homepage-green-house
 ```
-03: Install depencies
+03: Install dependencies
 ```
 yarn
 ```
@@ -29,7 +32,7 @@ yarn
 ```
 touch .env.local
 ```
-05: Inside file .env.local put service id, template id e plublic key from EmailJS
+05: Inside file .env.local put service id, template id and plublic key from EmailJS
 ```
 NEXT_PUBLIC_EMAIL_SENDER_SERVICE_ID=your_service_id
 NEXT_PUBLIC_EMAIL_SENDER_TEMPLATE_ID=your_template_id
@@ -45,6 +48,8 @@ Run tests
 yarn test
 ```
 
+<br>
+
 ## :handshake: Team
 <table>
   <tr>
@@ -59,5 +64,7 @@ yarn test
   </tr>
 </table>
 
-## :dart: Project status
+<br>
+
+## :dart: Status
 Finished
