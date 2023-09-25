@@ -13,34 +13,34 @@ https://github.com/Richard-Passos/casa-verde-homepage/assets/104469731/198b2afb-
 
 ## :rocket: Running the project
 ### To run the repository, it is recommended to do:
-01: Clone the repository via git;
+01: Clone the repository via git
 ```
 git clone https://github.com/Richard-Passos/casa-verde-homepage.git
 ```
-02: Enter the project directory;
+02: Enter the project directory
 ```
 cd casa-verde-homepage
 ```
-03: Install depencies;
+03: Install depencies
 ```
 yarn
 ```
-04: Create file .env.local;
+04: Create file .env.local
 ```
 touch .env.local
 ```
-05: Inside file .env.local put service id, template id e plublic key from EmailJS;
+05: Inside file .env.local put service id, template id e plublic key from EmailJS
 ```
 NEXT_PUBLIC_EMAIL_SENDER_SERVICE_ID=seu_service_id
 NEXT_PUBLIC_EMAIL_SENDER_TEMPLATE_ID=seu_template_id
 NEXT_PUBLIC_EMAIL_SENDER_PUBLIC_KEY=seu_public_key
 ```
 ### Now you can run the project or its tests:
-Run project;
+Run project
 ```
 yarn dev
 ```
-Run tests;
+Run tests
 ```
 yarn test
 ```
