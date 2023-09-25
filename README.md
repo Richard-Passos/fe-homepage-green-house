@@ -31,9 +31,9 @@ touch .env.local
 ```
 05: Inside file .env.local put service id, template id e plublic key from EmailJS
 ```
-NEXT_PUBLIC_EMAIL_SENDER_SERVICE_ID=seu_service_id
-NEXT_PUBLIC_EMAIL_SENDER_TEMPLATE_ID=seu_template_id
-NEXT_PUBLIC_EMAIL_SENDER_PUBLIC_KEY=seu_public_key
+NEXT_PUBLIC_EMAIL_SENDER_SERVICE_ID=your_service_id
+NEXT_PUBLIC_EMAIL_SENDER_TEMPLATE_ID=your_template_id
+NEXT_PUBLIC_EMAIL_SENDER_PUBLIC_KEY=your_public_key
 ```
 ### Now you can run the project or its tests:
 Run project
